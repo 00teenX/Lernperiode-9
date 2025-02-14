@@ -8,6 +8,15 @@
 
 ## 14.02.2025
 
-- [ ] Modul 347 Vorbereitung für Test am 17.02.2025
+- [x] Modul 347 Vorbereitung für Test am 17.02.2025
+- [x] Zusammenfassungsblatt machen für Prüfung
 
-Heute habe ich... 
+Heute habe ich mich auf den Test im Modul 347 vorbereitet. Ich habe die wichtigsten Themen zu Docker und Containern wiederholt. Besonders spannend war zu sehen, wie man mehrere Container mit Docker Compose verwaltet. Ich habe ein Zusammenfassungsblatt erstellt, aber es ist noch nicht ganz fertig. Manche Begriffe waren noch etwas schwierig, aber ich verstehe es immer besser. {58 Wörter}
+
+## 21.02.2025
+
+- [ ] Modul 114 Aufträge
+- [ ] Auftrag 1707
+- [ ] Auftrag 1711
+
+Heute habe ich ...
