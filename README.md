@@ -15,8 +15,12 @@ Heute habe ich mich auf den Test im Modul 347 vorbereitet. Ich habe die wichtigs
 
 ## 21.02.2025
 
-- [ ] Modul 114 Aufträge
-- [ ] Auftrag 1707
-- [ ] Auftrag 1711
+- [x] TicTacToe Spiel anfangen
+
+Heute habe ich mit meinem Tic-Tac-Toe-Spiel begonnen. Ich habe die Spiellogik erstellt, sodass Spieler abwechselnd X und O setzen können. Dann habe ich eine einfache Benutzeroberfläche mit .NET MAUI gebaut und sie mit der Logik verbunden. Am Ende habe ich eine Reset Funktion hinzugefügt und getestet. Die Grundversion funktioniert, aber das Design muss ich verbessern. {57 Wörter}
+
+## 28.02.2025
+
+- [ ] TicTacToe Spiel weiter ausbauen
 
 Heute habe ich ...
