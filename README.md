@@ -21,6 +21,8 @@ Heute habe ich mit meinem Tic-Tac-Toe-Spiel begonnen. Ich habe die Spiellogik er
 
 ## 28.02.2025
 
-- [ ] TicTacToe Spiel weiter ausbauen
+- [ ] TicTacToe Spiel auf XCode anfangen. (Ich will es als IOS App machen)
+- [ ] Spielfeld bauen mit X und O
+- [ ] Mensch Modus und KI Modus programmieren
 
 Heute habe ich ...
