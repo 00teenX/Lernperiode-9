@@ -21,8 +21,8 @@ Heute habe ich mit meinem Tic-Tac-Toe-Spiel begonnen. Ich habe die Spiellogik er
 
 ## 28.02.2025
 
-- [ ] TicTacToe Spiel auf XCode anfangen. (Ich will es als IOS App machen)
-- [ ] Spielfeld bauen mit X und O
-- [ ] Mensch Modus und KI Modus programmieren
+- [x] TicTacToe Spiel auf XCode anfangen. (Ich will es als IOS App machen)
+- [x] Spielfeld bauen mit X und O
+- [x] Mensch Modus und KI Modus programmieren
 
-Heute habe ich ...
+Heute habe ich mein Tic-Tac-Toe-Spiel in Xcode mit SwiftUI angefangen. Ich habe das Spielfeld als 3x3-Grid erstellt, in dem Spieler X und O setzen können. Die Spielmechanik funktioniert, und das Spiel erkennt bereits Siege und Unentschieden. Ausserdem habe ich den Mensch- und KI-Modus programmiert, wobei die KI je nach Schwierigkeitsstufe unterschiedliche Strategien nutzt. Der Minimax-Algorithmus sorgt dafür, dass die KI in der schweren Stufe optimal spielt. Als nächstes werde ich das Design überarbeiten und weitere Details verbessern. {77 Wörter}
