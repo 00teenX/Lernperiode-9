@@ -26,3 +26,11 @@ Heute habe ich mit meinem Tic-Tac-Toe-Spiel begonnen. Ich habe die Spiellogik er
 - [x] Mensch Modus und KI Modus programmieren
 
 Heute habe ich mein Tic-Tac-Toe-Spiel in Xcode mit SwiftUI angefangen. Ich habe das Spielfeld als 3x3-Grid erstellt, in dem Spieler X und O setzen können. Die Spielmechanik funktioniert, und das Spiel erkennt bereits Siege und Unentschieden. Ausserdem habe ich den Mensch- und KI-Modus programmiert, wobei die KI je nach Schwierigkeitsstufe unterschiedliche Strategien nutzt. Der Minimax-Algorithmus sorgt dafür, dass die KI in der schweren Stufe optimal spielt. Als nächstes werde ich das Design überarbeiten und weitere Details verbessern. {77 Wörter}
+
+## 07.03.2025
+
+- [ ] Weiter und Verlassen Menü
+- [ ] KI Schwierigkeitsgrad soll nicht während des Spielens geändert werden können
+- [ ] Design
+
+Heute habe ich ...
