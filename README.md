@@ -29,8 +29,15 @@ Heute habe ich mein Tic-Tac-Toe-Spiel in Xcode mit SwiftUI angefangen. Ich habe 
 
 ## 07.03.2025
 
-- [ ] Weiter und Verlassen Menü
-- [ ] KI Schwierigkeitsgrad soll nicht während des Spielens geändert werden können
-- [ ] Design
+- [x] Weiter und Verlassen Menü
+- [x] KI Schwierigkeitsgrad soll nicht während des Spielens geändert werden können
+- [x] Design
+
+Heute habe ich am Menü für „Weiter“ und „Verlassen“ gearbeitet. Es soll gut aussehen und einfach zu benutzen sein. Ich habe auch sichergestellt, dass man die KI-Schwierigkeit nicht während des Spiels ändern kann. Das Design habe ich verbessert, damit es sauber und übersichtlich bleibt. Ich bin zufrieden mit dem Fortschritt, auch wenn es noch kleine Dinge zu tun gibt. Als Nächstes will ich haptisches Feedback und eine Statistik hunzufügen. {69 Wörter}
+
+## 14.03.2025
+
+- [ ] Haptisches Feedback hinzufügen
+- [ ] Statistik hinzufügen
 
 Heute habe ich ...
