@@ -37,7 +37,20 @@ Heute habe ich am Menü für „Weiter“ und „Verlassen“ gearbeitet. Es sol
 
 ## 14.03.2025
 
-- [ ] Haptisches Feedback hinzufügen
-- [ ] Statistik hinzufügen
+- [x] Haptisches Feedback hinzufügen
+- [x] Statistik hinzufügen
+
+Heute habe ich haptisches Feedback ins Spiel eingebaut, damit sich die Steuerung besser anfühlt. Ich habe auch die Statistik fertig gemacht, sodass man jetzt sehen kann, wie oft man gewonnen oder verloren hat. Das verbessert das Spielgefühl. Ich bin zufrieden mit dem Ergebnis. Als Nächstes werde ich nochmal alles testen und ein App Icon hinzufügen. {55 Wörter}
+
+## 21.03.2025
+
+Ich kann leider nichts machen, da ich eine Operation habe. Nächste Woche werde ich wieder weiter machen können.
+
+## 28.03.2025
+
+- [ ] App Icon Design erstellen
+- [ ] App Icon hinzufügen
+- [ ] Alles nochmals Testen
+- [ ] Auf mein iPhone spielen
 
 Heute habe ich ...
