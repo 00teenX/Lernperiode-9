@@ -48,9 +48,16 @@ Ich kann leider nichts machen, da ich eine Operation habe. Nächste Woche werde 
 
 ## 28.03.2025
 
-- [ ] App Icon Design erstellen
-- [ ] App Icon hinzufügen
-- [ ] Alles nochmals Testen
-- [ ] Auf mein iPhone spielen
+- [x] App Icon Design erstellen
+- [x] App Icon hinzufügen
+- [x] Alles nochmals Testen
+- [x] Auf mein iPhone spielen
+
+Heute habe ich das App Icon gestaltet, hinzugefügt und die ganze App nochmals getestet. Danach habe ich sie erfolgreich auf mein iPhone übertragen. Alles funktioniert wie geplant und die App ist jetzt komplett fertig. Es ist ein gutes Gefühl, das Endergebnis auf dem Handy zu sehen. Ich bin stolz auf das, was ich geschafft habe. {55 Wörter}
+
+04.04.2025
+
+- [ ] Modul 259
 
 Heute habe ich ...
+
