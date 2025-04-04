@@ -62,5 +62,5 @@ Heute habe ich das App Icon gestaltet, hinzugefügt und die ganze App nochmals g
 - [x] Auftrag 1650
 - [x] Auftrag 1651
 
-Heute habe ich ...
+Heute habe ich mein TicTacToe-Projekt fertig gemacht und den Code hochgeladen. Ich bin sehr zufrieden mit dem Ergebnis. Danach habe ich an den zwei Aufträgen aus Modul 259 gearbeitet (LA_1650 und LA_1651). Dabei habe ich mit scikit-learn gearbeitet und einfache Machine-Learning-Modelle ausprobiert. Es war spannend zu sehen, wie gut manche Modelle funktionieren. Manchmal war es schwer zu verstehen, welches Modell am besten passt. Trotzdem habe ich viel gelernt. Ich bin zufrieden mit dem, was ich geschafft habe. {77 Wörter}
 
