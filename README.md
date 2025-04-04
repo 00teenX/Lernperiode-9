@@ -58,7 +58,9 @@ Heute habe ich das App Icon gestaltet, hinzugefügt und die ganze App nochmals g
 04.04.2025
 
 - [x] Code Hochladen von der TicTacToe APP
-- [ ] Modul 259
+- [x] Modul 259
+- [x] Auftrag 1650
+- [x] Auftrag 1651
 
 Heute habe ich ...
 
